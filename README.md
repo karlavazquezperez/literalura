@@ -87,23 +87,23 @@ Una vez que la aplicación esté en ejecución, puedes realizar las siguientes a
 A continuación, se muestran capturas de pantalla del funcionamiento de la aplicación:
 
 ### Interfaz de Menú Principal
-![Menú Principal](./screenshots/menu-principal.png)
+![Menú Principal](./screenshots/menu-principal.jpeg)
 
 ### Opción 1
-![Opción 1](./screenshots/opcion1.png)
+![Opción 1](./screenshots/opcion1.jpeg)
 
 ### Opción 2
-![Opción 2](./screenshots/opcion2.png)
+![Opción 2](./screenshots/opcion2.jpeg)
 
 ### Opción 3
-![Opción 3](./screenshots/opcion3.png)
+![Opción 3](./screenshots/opcion3.jpeg)
 
 ### Opción 4
-![Opción 4](./screenshots/opcion4.png)
+![Opción 4](./screenshots/opcion4.jpeg)
 
 ### Opción 5
-![Opción 5 parte 1](./screenshots/opcion5-parte1.png)
-![Opción 5 parte 2](./screenshots/opcion5-parte2.png)
+![Opción 5 parte 1](./screenshots/opcion5-parte1.jpeg)
+![Opción 5 parte 2](./screenshots/opcion5-parte2.jpeg)
 
 
 ## Autora
